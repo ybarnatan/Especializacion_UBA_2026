@@ -26,7 +26,7 @@ Cientifico de datos y biologo, apasionado por la resolución de problemas combin
 
 ## 📄 Disponibilidad del manuscrito
 
-El texto completo de la tesis estará disponible próximamente en la Biblioteca Digital de la Facultad.
+El texto completo de la tesis estará disponible próximamente en la biblioteca digital de la Facultad.
 
 Asimismo, los interesados en consultar una copia en formato digital pueden solicitar el documento directamente a través del contacto con el autor.
 
