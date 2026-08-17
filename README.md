@@ -35,11 +35,11 @@ El objetivo principal de este proyecto es analizar los patrones de reserva hotel
 Este repositorio contiene el proyecto completo de ciencia de datos desarrollado para el desarrollo de esta tesis. El mismo cubre el preprocesamiento de datos, análisis exploratorio, ingeniería de características y modelado predictivo de cancelaciones de reservas.
 
 
-| Project Name                         | Link to project                                  |
+| Notebook                       | Link                                  |
 |-------------------------------------|---------------------------------------------|
-| Exploratory Data Analysis                 | [![Project 1](https://img.shields.io/badge/Part_1-blue)](https://github.com/ybarnatan/Especializacion_UBA_2026/blob/main/Notebooks/01_Preprocessing_and_EDA.ipynb)|
-| Statistical Tests                        | [![Project 2](https://img.shields.io/badge/Part_2-green)](https://ybarnatan.github.io/intel_data_analysis/Project_2_Statistical_Tests/Project-2_Mobiles-Dataset.html) |
-| Principal Component Analysis (PCA)            | [![Project 3](https://img.shields.io/badge/Part_3-orange)](https://ybarnatan.github.io/intel_data_analysis/Project_3_PCA/Project-3_PCA_Fifa-Dataset.html) |
+| Preprocesamiento y EDA                 | [![Project 1](https://img.shields.io/badge/Preprocesamiento_y_EDA-blue)](https://github.com/ybarnatan/Especializacion_UBA_2026/blob/main/Notebooks/01_Preprocessing_and_EDA.ipynb)|
+| Ingenieria de atributos                        | [![Project 2](https://img.shields.io/badge/Feature_Engeneering-green)](https://github.com/ybarnatan/Especializacion_UBA_2026/blob/main/Notebooks/02_FeatEng.ipynb) |
+| Modelado de datos            | [![Project 3](https://img.shields.io/badge/Modelado-orange)](https://github.com/ybarnatan/Especializacion_UBA_2026/blob/main/Notebooks/03_Modelling.ipynb) |
 
 
 
