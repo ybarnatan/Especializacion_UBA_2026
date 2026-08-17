@@ -4,30 +4,36 @@
 
   
   <h1> Cancelaciones hoteleras, ganancia económica y segmentación de riesgo: un enfoque de machine learning para la gestión de liquidez. </h1>
-  <h3> Autor: Dr. Yair B. Barnatan </h3>
+  <h2> Autor: Dr. Yair B. Barnatan </h2>
  
 <h4>Tesis presentada para optar por el título de Especialista en Explotación de Datos y Descubrimiento de Conocimiento.</h4>
 <h5> UNIVERSIDAD DE BUENOS AIRES</h5>   
 
 </div>
 
----
+
   
 ## ✍️ **Autor**  
 
 **Dr. Yair B. Barnatan**
-*Data Analyst & Scientist*
 
 Cientifico de datos y biologo, apasionado por la resolución de problemas combinando rigor cuantitativo, tecnologias modernas y con un enfoque práctico de negocio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yair_Barnatan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yair-barnatan/)
 
 
----
+
+## 📄 Disponibilidad del manuscrito
+
+El texto completo de la tesis estará disponible próximamente en la Biblioteca Digital de la Facultad.
+
+Asimismo, los interesados en consultar una copia en formato digital pueden solicitar el documento directamente a través del contacto con el autor.
+
+
 
 ## 🎯 Objetivo del proyecto
 
-El objetivo principal de este proyecto es analizar los patrones de reserva hotelera, identificar las variables clave asociadas a las tasas de cancelación y construir modelos de aprendizaje automático (machine learning) para predecir la variable objetivo `is_canceled`. Todo esto se analiza bajo una optica de negocio en contextos de _turnaround_.
+El objetivo principal de este proyecto es analizar los patrones de reserva hotelera, identificar las variables clave asociadas a las tasas de cancelación y construir modelos de aprendizaje automático (machine learning) para predecir las reservas que seran canceladas. Todo esto se analiza bajo una optica de negocio en contextos de _turnaround_.
 
 
 ## 📁 Estructura del repositorio
@@ -37,7 +43,7 @@ Este repositorio contiene el proyecto completo de ciencia de datos desarrollado 
 
 | Notebook                       | Link                                  |
 |-------------------------------------|---------------------------------------------|
-| Preprocesamiento y EDA                 | [![Project 1](https://img.shields.io/badge/Preprocesamiento_y_EDA-yellow)](https://github.com/ybarnatan/Especializacion_UBA_2026/blob/main/Notebooks/01_Preprocessing_and_EDA.ipynb)|
+| Preprocesamiento y EDA                 | [![Project 1](https://img.shields.io/badge/Preprocesamiento_y_EDA-violet)](https://github.com/ybarnatan/Especializacion_UBA_2026/blob/main/Notebooks/01_Preprocessing_and_EDA.ipynb)|
 | Ingenieria de atributos                        | [![Project 2](https://img.shields.io/badge/Feature_Engeneering-green)](https://github.com/ybarnatan/Especializacion_UBA_2026/blob/main/Notebooks/02_FeatEng.ipynb) |
 | Modelado de datos            | [![Project 3](https://img.shields.io/badge/Modelado-orange)](https://github.com/ybarnatan/Especializacion_UBA_2026/blob/main/Notebooks/03_Modelling.ipynb) |
 
