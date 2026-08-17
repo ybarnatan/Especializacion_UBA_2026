@@ -2,7 +2,7 @@
 <div align="center">
   <h1> UNIVERSIDAD DE BUENOS AIRES</h1> 
   <h2> Especializacion en Data Mining y Knowledge Discovery </h2>
-  <h2>Tesis de Especializacion </h2>
+  <h2> Cancelaciones hoteleras, ganancia económica y segmentación de riesgo: un enfoque de machine learning para la gestión de liquidez. </h2>
   <h3> Autor: Yair B. Barnatan </h3>
   <img src="img/banner_DM_UBA.png" width="550" height="300" alt="banner" />
 </div>
@@ -15,7 +15,7 @@
 ---
 
 
-## 📁 Repository Structure
+## 📁 Dame el
 
 This repository contains six independent data analysis projects. Each project is self-contained in its own folder and covers different methods and tools in intelligent data analysis, including exploratory analysis, modeling, dimensionality reduction, and interpretation.
 
