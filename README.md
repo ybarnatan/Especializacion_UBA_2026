@@ -19,7 +19,8 @@
 
 Cientifico de datos y biologo, apasionado por la resolución de problemas combinando rigor cuantitativo, tecnologias modernas y con un enfoque práctico de negocio.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yair_Barnatan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yair-barnatan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yair_Barnatan-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yair-barnatan/)
+
 
 
 
