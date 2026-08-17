@@ -1,6 +1,9 @@
 <!-- Banner Section -->
 <div align="center">
-  <h1>📊 Tesis de Especializacion </h1>
+  <h1> UNIVERSIDAD DE BUENOS AIRES</h1> 
+  <h2> Especializacion en Data Mining y Knowledge Discovery </h2>
+  <h2>Tesis de Especializacion </h2>
+  <h3> Autor: Yair B. Barnatan </h3>
   <img src="img/banner_DM_UBA.png" width="550" height="300" alt="banner" />
 </div>
 
